@@ -4,6 +4,8 @@
 
 *Autor: deadchri5 2021*
 
+***Importante: Esté proyecto es sólo un proyecto escolar por lo que la funcionalidad esta limitada a los requerimientos del mismo, este no es un sitio real.***
+
 El backend de está página web está construido con NodeJS (v14.17.0) junto con su framework Express.
 
 ### Para hacer funcionar está aplicacion
