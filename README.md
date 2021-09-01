@@ -1,8 +1,10 @@
 # Backend de la aplicación web
 
+`Rama Backend` si usted requiere el `frontend` vaya a la rama con el mismo nombre.
+
 *Autor: deadchri5 2021*
 
-El backend de está página web está construido con NodeJS junto con su framework Express.
+El backend de está página web está construido con NodeJS (v14.17.0) junto con su framework Express.
 
 ### Para hacer funcionar está aplicacion
 
