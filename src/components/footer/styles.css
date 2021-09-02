@@ -1,0 +1,19 @@
+.footer {
+  background-color: #161616;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: auto;
+  position: absolute;
+}
+
+.footer-title {
+  color: #fff;
+}
+
+.footer-hover:hover {
+  -webkit-transition: ease 1s all;
+  transition: ease 1s all;
+  color: #FDFF !important;
+}
+/*# sourceMappingURL=styles.css.map */

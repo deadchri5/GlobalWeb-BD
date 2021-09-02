@@ -1,0 +1,31 @@
+.about-us-container{
+    margin: 3rem 5rem;
+}
+
+.card__about-us {
+    padding: 3rem;
+    background-color: rgb(29, 28, 28);
+}
+
+.about-info {
+    display: flex;
+    flex-direction: row;
+}
+
+.about-text-section{
+    color: rgb(226, 226, 226);
+    padding: 2rem;
+    font-weight: 400;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+.title-about-us {
+    margin-bottom: 2rem;
+}
+
+.about-img {
+    img {
+        width: 40rem;
+    }
+}

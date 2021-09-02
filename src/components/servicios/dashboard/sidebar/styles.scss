@@ -1,0 +1,22 @@
+.side-width {
+    height: 85vh;
+    position: fixed;
+    max-width: 237px;
+    width: 237px;
+}
+
+.al-c {
+    display: flex;
+    align-items: center;
+}
+
+.btn-aside:hover{
+    transition: 0.5s ease all;
+    color: rgb(20, 137, 167);
+    font-weight: 500;
+}
+
+.user-options {
+    margin-top: 2rem;
+}
+

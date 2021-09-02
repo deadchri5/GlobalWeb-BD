@@ -1,0 +1,9 @@
+.dashboard-navbar {
+    width: 100%;
+}
+
+.span-link{
+    &:hover {
+        cursor: pointer;
+    }
+}

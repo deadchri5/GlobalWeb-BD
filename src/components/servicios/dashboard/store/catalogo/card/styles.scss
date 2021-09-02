@@ -1,0 +1,38 @@
+.card-img {
+    width: 9rem;
+    height: 8rem;
+    object-fit: scale-down;
+}
+
+.card-product{
+    width: 15rem;
+    display: flex;
+    align-items: center;
+    margin: 1rem;
+}
+
+.card-product-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hr-card {
+    width: 90%;
+}
+
+.card-product-text {
+    height: 9rem;
+    max-height: 9rem;
+    overflow: hidden;
+    padding: 1rem 0;
+    line-height: 1.15rem;
+}
+
+.card-product-title {
+    text-align: center;
+    height: 3rem;
+    max-height: 3rem;
+    overflow: hidden;
+    font-size: 0.92rem;
+}

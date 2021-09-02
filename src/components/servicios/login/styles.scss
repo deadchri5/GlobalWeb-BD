@@ -1,0 +1,19 @@
+.container-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
+}
+
+h2 {
+    color: #cfe2ff;
+}
+
+.no-account-container {
+    margin: 1rem 0;
+    line-height: 10px;
+    &__text {
+        font-weight: 400;
+    }
+}

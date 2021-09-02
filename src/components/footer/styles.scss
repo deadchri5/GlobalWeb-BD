@@ -1,0 +1,15 @@
+.footer {
+    background-color: #161616;
+    display: flex;
+    margin-top: auto;
+    position: absolute;
+}
+
+.footer-title {
+    color: #fff;
+}
+
+.footer-hover:hover{
+    transition: ease 1s all;
+    color: #FDFF !important;
+}

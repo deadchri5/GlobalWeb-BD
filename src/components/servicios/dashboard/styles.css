@@ -1,0 +1,15 @@
+.dashboard-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.section-container {
+  width: 100%;
+  margin-left: 14.8rem;
+}
+/*# sourceMappingURL=styles.css.map */

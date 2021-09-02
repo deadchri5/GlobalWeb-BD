@@ -1,0 +1,21 @@
+.add-product-container{
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-add{
+    padding: 3rem;
+    width: 40rem;
+}
+
+.add-p-title{
+    color: aliceblue;
+    margin-bottom: 2rem;
+}
+
+.btn-add-p{
+    display: flex;
+    justify-content: flex-end;
+}

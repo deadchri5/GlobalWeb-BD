@@ -1,0 +1,41 @@
+.float-tag {
+    font-weight: 800;
+}
+
+.profile-container {
+    display: flex;
+    flex-direction: column;
+    padding: 5rem;
+}
+
+.card-profile {
+    padding: 3rem;
+}
+
+.valid-feedback {
+    font-weight: 400;
+    color: #069b3a;
+}
+
+.invalid-feedback {
+    font-weight: 400;
+    color: #e7372a;
+}
+
+.form-user-btn {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.profile-h2 {
+    margin-bottom: 2rem;
+}
+
+.form-h3 {
+    margin: 3rem 0 1rem
+}
+
+.form-datos {
+    margin-bottom: 1rem;
+}

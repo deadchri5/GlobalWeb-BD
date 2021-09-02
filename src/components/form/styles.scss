@@ -1,0 +1,37 @@
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-card {
+    padding: 2rem;
+    margin: 3rem 0;
+    width: 40rem;
+}
+
+.form-title {
+    margin-top: 2rem;
+    margin-left: 1.5rem;
+    color: aliceblue;
+}
+
+.form-container {
+    width: 40rem;
+    display: flex;
+    justify-content: center;
+}
+
+.form-label {
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+.form-text{
+    font-weight: 700;
+}
+
+.txtarea {
+    height: 6rem !important;
+}
